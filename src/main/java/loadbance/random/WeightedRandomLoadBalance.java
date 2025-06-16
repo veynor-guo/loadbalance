@@ -1,4 +1,4 @@
-package loadbance;
+package loadbance.random;
 
 import java.util.*;
 

@@ -1,11 +1,13 @@
-package loadbance;
+package loadbance.random;
 
 import java.util.Map;
 import java.util.Random;
 
-import static loadbance.WeightedRandomLoadBalance.IPS;
+import static loadbance.random.WeightedRandomLoadBalance.IPS;
 
 /**
+ * random
+ *
  * 随机负载均衡
  *
  * @author GuoJiangtao
